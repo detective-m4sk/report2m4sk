@@ -15,8 +15,8 @@ Online Dedektiflik bir bakıma bizi tanımlayabilir, bir sayı ve sınırları o
 
 ```
 
-**__vs gibi detaylar araştırmamızda kolaylık sağlayacaktır, ipucu verebilecek herhangi bir detay bizim için önemlidir
-o yüzden çok gecikmeden bize bildiriniz __**
+**vs gibi detaylar araştırmamızda kolaylık sağlayacaktır, ipucu verebilecek herhangi bir detay bizim için önemlidir
+o yüzden çok gecikmeden bize bildiriniz**
 
 
 ### Bize ulaşın,
