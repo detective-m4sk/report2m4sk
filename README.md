@@ -6,9 +6,9 @@ Online Dedektiflik bir bakıma bizi tanımlayabilir, bir sayı ve sınırları o
 ```markdown
 
 
-[Link](url) and ![Image](src)
+![Image](https://i.hizliresim.com/HnBOUt.jpg)
 ```
 
 ### Bize yardım etmek istiyorsanız,
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/report2m4sk)
