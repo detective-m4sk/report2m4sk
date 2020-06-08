@@ -6,7 +6,9 @@ Online Dedektiflik bir bakıma bizi tanımlayabilir, bir sayı ve sınırları o
 ```markdown
 
 
-![Image](https://i.hizliresim.com/HnBOUt.jpg)
+[Image](https://i.hizliresim.com/HnBOUt.jpg)
+
+
 ```
 
 ### Bize yardım etmek istiyorsanız,
